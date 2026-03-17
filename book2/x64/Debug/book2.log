@@ -1,0 +1,3 @@
+﻿  BookShop.cpp
+C:\Users\User\Documents\work\2025-2026\uchilishte\11 klas\11D\book2\book2\BookShop.cpp(207,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  book2.vcxproj -> C:\Users\User\Documents\work\2025-2026\uchilishte\11 klas\11D\book2\x64\Debug\book2.exe

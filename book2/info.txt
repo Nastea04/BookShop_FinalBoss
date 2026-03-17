@@ -1,0 +1,11 @@
+2
+BookieTime
+ul.books bookov 13
+Noev Kovcheg
+456 2 15 1 0 unknown bg
+Jordan Radichkov
+1800 1 1867 Bulgaria
+The Holly Bible
+777 5 2 0 70 religion all
+The God
+0 0 0 Earth
