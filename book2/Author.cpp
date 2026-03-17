@@ -1,5 +1,5 @@
 #include "Author.hpp"
-
+//comment
 void Author::getInfo()
 {
 	cout << "---> Author\n";
